@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lanaflanjak.github.io/live-testing/sitemap.xml
+Sitemap: https://live-testing.lanaflanjak.ch/sitemap.xml
