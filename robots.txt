@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lanaflanjak.ch/sitemap.xml
+Sitemap: http://lanaflanjak.ch//sitemap.xml
